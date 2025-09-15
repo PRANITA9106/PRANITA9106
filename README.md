@@ -45,7 +45,7 @@
 
 #### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-MongoDB-47A248?logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-47A248?logo=sql&logoColor=white)
 
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
